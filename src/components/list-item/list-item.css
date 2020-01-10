@@ -1,0 +1,21 @@
+.to-do-component .list-group-item {
+	padding-top: .5rem;
+	padding-bottom: .5rem;
+}
+
+.to-do-component .important-btn .fa-exclamation {
+	width: 11px;
+}
+
+.to-do-component .list-group-item .important {
+	font-weight: 900;
+	color: red;
+}
+
+.to-do-component .list-group-item .list-group-item-label {
+	cursor: pointer;
+}
+
+.to-do-component .list-group-item .done {
+	text-decoration: line-through;
+}
